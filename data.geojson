@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "features":[
     { "type": "Feature", "properties": { "marker-color": "blue", "title": "こんにちは1", "description": "<a href=\"https://example.com\">あああ1</a>" }, "geometry": { "type": "Point", "coordinates":[135, 30] } },
-    { "type": "Feature", "properties": { "title": "こんにちは2", "description": "あああ2" }, "geometry": { "type": "Point", "coordinates":[135, 32] } },
+    { "type": "Feature", "properties": { "title": "こんにちは2", "description": "<img src=\"./img.png\">あああ2" }, "geometry": { "type": "Point", "coordinates":[135, 32] } },
     { "type": "Feature", "properties": { "title": "こんにちは3", "description": "あああ3" }, "geometry": { "type": "Point", "coordinates":[130, 33] } },
     { "type": "Feature", "properties": { "title": "こんにちは4", "description": "あああ4" }, "geometry": { "type": "Point", "coordinates":[125, 34] } },
     { "type": "Feature", "properties": { "title": "こんにちは5", "description": "あああ5" }, "geometry": { "type": "Point", "coordinates":[120, 30] } },
